@@ -1,2 +1,2 @@
-- **Releases**
-  - [v20210925](/releases/v20210925)
+- **web releases**
+  - [v0.3.0](/releases/web/v0.3.0)

@@ -1,3 +1,1 @@
-- [網頁版](https://www.sk5s.cyou/alsoweather/)
-- [Android](https://github.com/sk5s/alsoweather/releases)
-- [Windows](https://github.com/sk5s/alsoweather/releases)
+- [web](https://www.sk5s.cyou/alsoweather/)
