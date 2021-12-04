@@ -1,7 +1,7 @@
 # 安裝漸進式網頁應用程式 Install Progressive Web Apps
 
 ## 電腦安裝
-### chrome瀏覽器
+### chrome瀏覽器 :id=chrome-desktop
 - 打開chrome
 - 到[https://www.sk5s.cyou/alsoweather/](https://www.sk5s.cyou/alsoweather/)
 - 點擊網址列的安裝圖標![](https://upload.cc/i1/2021/12/04/IlbBQx.png)
@@ -21,7 +21,7 @@
 > 不支援
 
 ### brave瀏覽器
-> 同[chrome 瀏覽器](chrome%e7%80%8f%e8%a6%bd%e5%99%a8)
+> 同[chrome 瀏覽器](chrome-desktop)
 
 ### vivaldi瀏覽器
 - 打開vivaldi
@@ -31,7 +31,7 @@
 - 點擊 安裝「alsoweather」
 
 ## 手機安裝
-### chrome瀏覽器 - 推薦
+### chrome瀏覽器 - 推薦 :id=chrome-mobile
 - 打開chrome
 - 到[https://www.sk5s.cyou/alsoweather/](https://www.sk5s.cyou/alsoweather/)
 - 點擊功能表的加到主畫面圖標![](https://upload.cc/i1/2021/12/04/16aBEi.png)
@@ -57,4 +57,4 @@
 ![](https://upload.cc/i1/2021/12/04/wDbSoH.png)
 
 ### vivaldi瀏覽器
-> 同[chrome瀏覽器 - 推薦](chrome%e7%80%8f%e8%a6%bd%e5%99%a8-%e6%8e%a8%e8%96%a6)
+> 同[chrome瀏覽器 - 推薦](chrome-mobile)
