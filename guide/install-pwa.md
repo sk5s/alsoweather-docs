@@ -21,7 +21,7 @@
 > 不支援
 
 ### brave瀏覽器
-> 同[chrome 瀏覽器](chrome-desktop)
+> 同[chrome 瀏覽器](#chrome-desktop)
 
 ### vivaldi瀏覽器
 - 打開vivaldi
@@ -57,4 +57,4 @@
 ![](https://upload.cc/i1/2021/12/04/wDbSoH.png)
 
 ### vivaldi瀏覽器
-> 同[chrome瀏覽器 - 推薦](chrome-mobile)
+> 同[chrome瀏覽器 - 推薦](#chrome-mobile)
