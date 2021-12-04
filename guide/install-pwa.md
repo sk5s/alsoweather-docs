@@ -21,7 +21,7 @@
 > 不支援
 
 ### brave瀏覽器
-> 同[chrome 瀏覽器](#chrome瀏覽器)
+> 同[chrome 瀏覽器](#/guide/install-pwa?id=chrome%e7%80%8f%e8%a6%bd%e5%99%a8)
 
 ### vivaldi瀏覽器
 - 打開vivaldi
@@ -57,4 +57,4 @@
 ![](https://upload.cc/i1/2021/12/04/wDbSoH.png)
 
 ### vivaldi瀏覽器
-> 同[chrome瀏覽器 - 推薦](#chrome瀏覽器---推薦)
+> 同[chrome瀏覽器 - 推薦](#/guide/install-pwa?id=chrome%e7%80%8f%e8%a6%bd%e5%99%a8-%e6%8e%a8%e8%96%a6)
