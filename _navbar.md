@@ -1,1 +1,1 @@
-- [web](https://www.sk5s.cyou/alsoweather/)
+- [web](https://sk5s.cyou/alsoweather/)
