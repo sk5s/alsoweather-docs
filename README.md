@@ -9,11 +9,11 @@
 
 簡易天氣 app，有 mobile、desktop 版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示
 
-<img src="https://upload.cc/i1/2022/01/22/nURhey.png" alt="Icons made by iconixar from www.flaticon.com" style="width:80px">
+<img src="img/nURhey.png" alt="Icons made by iconixar from www.flaticon.com" style="width:80px">
 
 > Icons made by [iconixar](https://www.flaticon.com/authors/iconixar) from [www.flaticon.com](https://www.flaticon.com/)
 
-<a href="https://sk5s.cyou/alsoweather/" target="_blank"><img width="20px" src="https://upload.cc/i1/2021/11/12/p8YxXc.png" alt=""> alsoweather web</a>
+<a href="https://sk5s.cyou/alsoweather/" target="_blank"><img width="20px" src="img/p8YxXc.png" alt=""> alsoweather web</a>
 
 ---
 
@@ -27,9 +27,9 @@
 
 ---
 
-![splash](https://upload.cc/i1/2022/01/22/boRBjm.jpg)
+![splash](img/boRBjm.jpg)
 
-[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
+[![sk5s site](img/dVn6TN.png)](https://sk5s.cyou/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://sk5s.cyou/)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
