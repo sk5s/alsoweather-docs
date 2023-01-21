@@ -1,4 +1,4 @@
-![logo](https://upload.cc/i1/2022/01/22/nURhey.png ':size=160')
+![logo](img/nURhey.png ':size=160')
 
 # alsoweather
 

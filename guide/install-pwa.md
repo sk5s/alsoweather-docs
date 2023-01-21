@@ -7,15 +7,15 @@
 - 點擊網址列的安裝圖標![](../img/IlbBQx.png)
 ![](../img/619ZYe.png)
 - 安裝
-![](https://upload.cc/i1/2021/12/04/GHIXpL.png)
+![](../img/GHIXpL.png)
 
 ### edge瀏覽器 - 推薦
 - 打開edge
 - 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
-- 點擊網址列的安裝圖標![](https://upload.cc/i1/2021/12/04/0qOGc9.png)
-![](https://upload.cc/i1/2021/12/04/LlcvBG.png)
+- 點擊網址列的安裝圖標![](../img/0qOGc9.png)
+![](../img/LlcvBG.png)
 - 安裝
-![](https://upload.cc/i1/2021/12/04/JVOXQ9.png)
+![](../img/JVOXQ9.png)
 
 ### firefox瀏覽器
 > 不支援
@@ -27,25 +27,25 @@
 - 打開vivaldi
 - 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
 - 在alsoweather的分頁上點擊右鍵
-![](https://upload.cc/i1/2021/12/04/BbCExd.png)
+![](../img/BbCExd.png)
 - 點擊 安裝「alsoweather」
 
 ## 手機安裝
 ### chrome瀏覽器 - 推薦 :id=chrome-mobile
 - 打開chrome
 - 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
-- 點擊功能表的加到主畫面圖標![](https://upload.cc/i1/2021/12/04/16aBEi.png)
-![](https://upload.cc/i1/2021/12/04/zW2XUL.png)
+- 點擊功能表的加到主畫面圖標![](../img/16aBEi.png)
+![](../img/zW2XUL.png)
 - 安裝
-![](https://upload.cc/i1/2021/12/04/mIOtLB.png)
+![](../img/mIOtLB.png)
 
 ### 三星瀏覽器
 - 打開網際網路
 - 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
-- 點擊網址列的安裝圖標![](https://upload.cc/i1/2021/12/04/N8W4Zd.png)
-![](https://upload.cc/i1/2021/12/04/9PLOEl.png)
+- 點擊網址列的安裝圖標![](../img/N8W4Zd.png)
+![](../img/9PLOEl.png)
 - 安裝
-![](https://upload.cc/i1/2021/12/04/w1gWqD.png)
+![](../img/w1gWqD.png)
 
 ### duckduckgo app
 > 不支援
@@ -53,8 +53,8 @@
 ### firefox瀏覽器
 - 打開網際網路
 - 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
-- 點擊網址列的安裝圖標![](https://upload.cc/i1/2021/12/04/841in2.png)
-![](https://upload.cc/i1/2021/12/04/wDbSoH.png)
+- 點擊網址列的安裝圖標![](../img/841in2.png)
+![](../img/wDbSoH.png)
 
 ### vivaldi瀏覽器
 > 同[chrome瀏覽器 - 推薦](#chrome-mobile)
