@@ -3,9 +3,9 @@
 ## 電腦安裝
 ### chrome瀏覽器 :id=chrome-desktop
 - 打開chrome
-- 到[https://www.sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
-- 點擊網址列的安裝圖標![](https://upload.cc/i1/2021/12/04/IlbBQx.png)
-![](https://upload.cc/i1/2021/12/04/619ZYe.png)
+- 到[https://sk5s.cyou/alsoweather/](https://sk5s.cyou/alsoweather/)
+- 點擊網址列的安裝圖標![](../img/IlbBQx.png)
+![](../img/619ZYe.png)
 - 安裝
 ![](https://upload.cc/i1/2021/12/04/GHIXpL.png)
 
