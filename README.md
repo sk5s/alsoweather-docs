@@ -27,7 +27,7 @@
 
 ---
 
-![splash](img/boRBjm.jpg)
+![splash](img/boRBjm.png)
 
 [![sk5s site](img/dVn6TN.png)](https://sk5s.cyou/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://sk5s.cyou/)
