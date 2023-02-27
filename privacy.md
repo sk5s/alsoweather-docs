@@ -1,4 +1,4 @@
-# Privacy Policy
+# alsoweather - Privacy Policy
 
 Last updated: February 27, 2023
 
