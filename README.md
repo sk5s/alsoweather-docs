@@ -41,7 +41,7 @@
     <a href="https://sk5s.cyou/alsoweather/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://sk5s.cyou/alsoweather/">Web app</a>
+    <a href="https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather">Download</a>
     ·
     <a href="https://github.com/sk5s/alsoweather/issues">Report Bug</a>
     ·
@@ -75,7 +75,7 @@
 
 ## About The Project
 
-<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
 
 |![1](https://user-images.githubusercontent.com/92437055/219948348-65581d72-13fe-494f-8a2a-cf1281a89d8f.jpg)|![2](https://user-images.githubusercontent.com/92437055/219948374-9c97863d-bec2-477b-9b54-e1a6b0712b02.jpg)|
 |-|-|
